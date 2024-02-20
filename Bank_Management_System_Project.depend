@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1708332969 source:c:\users\alikh\onedrive\documents\online_diaploma\test_1\bank_management_system_project\bank_management_system.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Bank_Management_System.h"
+
+1708332066 c:\users\alikh\onedrive\documents\online_diaploma\test_1\bank_management_system_project\bank_management_system.h
+	<stdio.h>
+	<stdlib.h>
+	"Platform_Types.h"
+
+1631473136 c:\users\alikh\onedrive\documents\online_diaploma\test_1\bank_management_system_project\platform_types.h
+
+1708279799 source:c:\users\alikh\onedrive\documents\online_diaploma\test_1\bank_management_system_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Bank_Management_System.h"
+
